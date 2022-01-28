@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "thekalinga.bootstrap4-vscode",
+        "emmanuelbeziat.vscode-great-icons",
+        "jpoissonnier.vscode-styled-components",
+        "gruntfuggly.todo-tree"
+    ]
+}
